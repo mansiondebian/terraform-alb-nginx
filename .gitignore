@@ -1,7 +1,5 @@
 # === Terraform ===
 .terraform/
-terraform.tfstate
-terraform.tfstate.*
 crash.log
 *.tfplan
 *.tfvars
