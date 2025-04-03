@@ -1,0 +1,24 @@
+# === Terraform ===
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+*.tfplan
+*.tfvars
+
+# === Sensible ===
+*.pem
+*.key
+*.crt
+*.zip
+
+# === IDEs ===
+.vscode/
+.idea/
+
+# === OS generated ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
