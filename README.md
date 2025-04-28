@@ -1,4 +1,4 @@
-#  Terraform AWS NGINX + ALB
+# Terraform AWS NGINX + ALB
 
 Este proyecto crea una infraestructura en AWS usando Terraform, pensada para servir como demo técnica o base para despliegues reales.
 
