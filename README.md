@@ -2,7 +2,7 @@
 
 Este proyecto crea una infraestructura en AWS usando Terraform, pensada para servir como demo técnica o base para despliegues reales.
 
-Incluye:
+Incluye:  #
 - EC2 (Amazon Linux 2) con NGINX
 - Application Load Balancer (ALB)
 - Auto Scaling Group
